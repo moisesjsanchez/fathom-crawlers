@@ -1,0 +1,17 @@
+{
+  "name": "scp-fathom",
+  "version": "1.0.0",
+  "description": "Web scrapper for Fathom.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": "8"
+  },
+  "author": "Moises Sanchez",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^9.0.0"
+  }
+}
